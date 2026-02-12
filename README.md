@@ -46,22 +46,22 @@ ui-automation-demo/
 
  🚀 How to Run the Project
  
- 1.Clone repository :
+ 1. Clone repository :
  git clone https://github.com/kachaaaa/ui-automation-demo.git
  cd ui-automation-demo
  
- 2.Create virtual environment :
+ 2. Create virtual environment :
  python -m venv .venv
  source .venv/bin/activate   # Mac/Linux
  
- 3.Install dependencies : 
+ 3. Install dependencies : 
  pip install -r requirements.txt
  
- 4.Run the applecation : 
+ 4. Run the applecation : 
  python app.py
  App will start at : http://127.0.0.1:5000
 
- 5.Run tests :
+ 5. Run tests :
  pytest -s
 
  ✅ Implemented Test Cases
