@@ -49,7 +49,7 @@ ui-automation-demo/
  1. Clone repository :
  git clone https://github.com/kachaaaa/ui-automation-demo.git
  
- cd ui-automation-demo
+  cd ui-automation-demo
  
  2. Create virtual environment :
  python -m venv .venv
