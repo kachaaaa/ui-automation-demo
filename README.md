@@ -47,7 +47,7 @@ ui-automation-demo/
  🚀 How to Run the Project
  
  1.Clone repository :
- git clone https://github.com/YOUR_USERNAME/ui-automation-demo.git
+ git clone https://github.com/kachaaaa/ui-automation-demo.git
  cd ui-automation-demo
  
  2.Create virtual environment :
