@@ -28,6 +28,13 @@ The goal of this project is to showcase practical UI automation skills and clean
 📂 Project Structure
 ui-automation-demo/
 │
+├── requirements.md
+├── test-plan.md
+├── checklist.md
+│
+├── bug-reports/
+│   └── sample-bug-report.md
+│
 ├── app.py
 ├── conftest.py
 ├── pytest.ini
